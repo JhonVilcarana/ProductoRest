@@ -5,6 +5,7 @@ public class Producto {
 	private String nombre;
 	private double precio;
 	private int stock;
+	
 	public Producto() {
 		super();
 		// TODO Auto-generated constructor stub
